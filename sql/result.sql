@@ -1,0 +1,200 @@
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (4681193601, 怀必果, 男, 12253447781, huainullbiguo@csu.edu.cn, 19990720, 4681193601, 46811, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (4121193417, 怀月虹, 男, 11463543939, huainullyuehong@csu.edu.cn, 19950116, 4121193401, 41211, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (6709191918, 怀耀, 女, 14134161089, huaiyao@csu.edu.cn, 19940317, 6709191901, 67091, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (3589193029, 怀永新, 男, 14028866928, huainullyongxin@csu.edu.cn, 19980423, 3589193001, 35891, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (5730192217, 怀觉儒, 男, 10746409145, huainulljueru@csu.edu.cn, 19940725, 5730192201, 57301, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (9160194523, 怀耘, 男, 17860839101, huaiyun@csu.edu.cn, 19960423, 9160194501, 91601, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (6167194405, 怀力群, 女, 16997195334, huainullliqun@csu.edu.cn, 19970308, 6167194401, 61671, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (5316191508, 怀林生, 女, 12333212449, huainulllinsheng@csu.edu.cn, 19970430, 5316191501, 53161, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (7908191514, 怀小媛, 男, 17033836212, huainullxiaoyuan@csu.edu.cn, 19980320, 7908191501, 79081, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (5680192302, 怀永斌, 女, 11357817616, huainullyongbin@csu.edu.cn, 19960916, 5680192301, 56801, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (9733193902, 怀后功, 男, 16106586146, huainullhougong@csu.edu.cn, 19950408, 9733193901, 97331, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (6718194431, 怀玉芹, 男, 11167095054, huainullyuqin@csu.edu.cn, 19960517, 6718194401, 67181, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (1835194615, 怀佳慧, 女, 10941182277, huainulljiahui@csu.edu.cn, 19970405, 1835194601, 18351, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (7650191410, 怀家敏, 女, 16861036908, huainulljiamin@csu.edu.cn, 19980515, 7650191401, 76501, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (9425193932, 怀胜新, 男, 19350286660, huainullshengnullxin@csu.edu.cn, 19980601, 9425193901, 94251, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (2681194213, 怀志敏, 女, 12254048003, huainullzhinullmin@csu.edu.cn, 19971123, 2681194201, 26811, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (1266193421, 怀万超, 女, 17744815963, huainullwanchao@csu.edu.cn, 19980115, 1266193401, 12661, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (0207193207, 怀向前, 女, 13582503625, huainullxiangqian@csu.edu.cn, 19990425, 0207193201, 02071, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (4055193021, 怀启云, 男, 10914671276, huainullqiyun@csu.edu.cn, 19940917, 4055193001, 40551, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (3229190622, 怀位旭, 女, 16359506654, huainullweinullxu@csu.edu.cn, 19980722, 3229190601, 32291, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (3328193626, 怀建耀, 女, 11624656065, huainulljianyao@csu.edu.cn, 19940117, 3328193601, 33281, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (3250194323, 怀印新, 男, 11702625390, huainullyinxin@csu.edu.cn, 19990314, 3250194301, 32501, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (0985195026, 怀琼洁, 男, 18917789661, huainullqiongnulljie@csu.edu.cn, 19951228, 0985195001, 09851, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (5832191824, 怀传武, 女, 10639070061, huainullchuanwu@csu.edu.cn, 19981211, 5832191801, 58321, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (0314191511, 怀玉芬, 男, 15721623729, huainullyufen@csu.edu.cn, 19960418, 0314191501, 03141, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (5783193529, 怀坚江, 女, 13968486908, huainulljianjiang@csu.edu.cn, 19970611, 5783193501, 57831, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (8765190510, 怀玉芸, 女, 14272729053, huainullyuyun@csu.edu.cn, 19940109, 8765190501, 87651, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (7716192326, 怀永文, 女, 11158661105, huainullyongwen@csu.edu.cn, 19981009, 7716192301, 77161, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (4801193822, 怀玉芳, 女, 10195632139, huainullyufang@csu.edu.cn, 19980908, 4801193801, 48011, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (9773194231, 怀玉花, 男, 18126711878, huainullyuhua@csu.edu.cn, 19980201, 9773194201, 97731, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (4460192714, 怀萍芳, 男, 13119102576, huainullpingfang@csu.edu.cn, 19961227, 4460192701, 44601, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (3740191630, 怀衅翠, 女, 10111876393, huainullxinnullcui@csu.edu.cn, 19980708, 3740191601, 37401, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (8647194921, 怀玉芝, 女, 19427787308, huainullyuzhi@csu.edu.cn, 19960907, 8647194901, 86471, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (0814193632, 怀筱超, 男, 10989827096, huainullxiaonullchao@csu.edu.cn, 19950331, 0814193601, 08141, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (5550192722, 怀存炎, 男, 16760334523, huainullcunyan@csu.edu.cn, 19971026, 5550192701, 55501, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (3409193501, 怀少娥, 女, 17326701820, huainullshaoe@csu.edu.cn, 19991016, 3409193501, 34091, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (1808192405, 怀瀚洋, 男, 19525177013, huainullhannullyang@csu.edu.cn, 19961118, 1808192401, 18081, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (9688191725, 怀朝莹, 女, 15956201488, huainullchaoying@csu.edu.cn, 19960804, 9688191701, 96881, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (9027192204, 怀景风, 女, 13506027127, huainulljingnullfeng@csu.edu.cn, 19970210, 9027192201, 90271, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (2823193315, 怀焕亮, 女, 13158020331, huainullhuanliang@csu.edu.cn, 19961223, 2823193301, 28231, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (3353194504, 怀胜文, 女, 17912825771, huainullshengnullwen@csu.edu.cn, 19960321, 3353194501, 33531, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (9111194931, 怀仙珠, 女, 12578163618, huainullxianzhu@csu.edu.cn, 19961228, 9111194901, 91111, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (8014193629, 怀翠萍, 女, 17443125799, huainullcuinullping@csu.edu.cn, 19950219, 8014193601, 80141, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (4721191913, 怀聚, 女, 11978856378, huaiju@csu.edu.cn, 19990119, 4721191901, 47211, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (5286194325, 怀萌芬, 男, 12117493508, huainullmengnullfen@csu.edu.cn, 19960430, 5286194301, 52861, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (6858193503, 怀宗棠, 男, 17673815758, huainullzongnulltang@csu.edu.cn, 19990727, 6858193501, 68581, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (8623191029, 怀生全, 女, 17698274298, huainullshengquan@csu.edu.cn, 19960406, 8623191001, 86231, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (3755195003, 怀永敏, 女, 15949266543, huainullyongmin@csu.edu.cn, 19971227, 3755195001, 37551, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (2205190432, 怀荣霞, 男, 12009654111, huainullrongnullxia@csu.edu.cn, 19980215, 2205190401, 22051, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (3087192324, 怀少威, 女, 11839873962, huainullshaowei@csu.edu.cn, 19950119, 3087192301, 30871, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (7137190530, 怀恩博, 女, 10397030083, huainullennullbo@csu.edu.cn, 19970124, 7137190501, 71371, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (9915193019, 怀卫星, 女, 15245637650, huainullweinullxing@csu.edu.cn, 19990916, 9915193001, 99151, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (2603190128, 怀聪, 男, 15051792709, huaicong@csu.edu.cn, 19990410, 2603190101, 26031, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (2668190824, 怀占松, 女, 11464023630, huainullzhansong@csu.edu.cn, 19990507, 2668190801, 26681, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (8363191632, 怀常青, 女, 10012102574, huainullchangqing@csu.edu.cn, 19960531, 8363191601, 83631, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (1610191601, 怀玉良, 男, 19772749125, huainullyuliang@csu.edu.cn, 19950211, 1610191601, 16101, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (7186194522, 怀卫明, 女, 13546872320, huainullweinullming@csu.edu.cn, 19951101, 7186194501, 71861, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (5838194620, 怀恩华, 女, 11000929849, huainullennullhua@csu.edu.cn, 19990514, 5838194601, 58381, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (6354194924, 怀生元, 男, 16242385587, huainullshengyuan@csu.edu.cn, 19940901, 6354194901, 63541, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (9877191802, 怀超峰, 女, 17193544977, huainullchaofeng@csu.edu.cn, 19970408, 9877191801, 98771, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (5958194413, 怀远鑫, 男, 19681917032, huainullyuanxin@csu.edu.cn, 19980324, 5958194401, 59581, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (6880191913, 怀玉艳, 女, 17232450639, huainullyuyan@csu.edu.cn, 19941101, 6880191901, 68801, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (6571190813, 怀嘉银, 男, 12994206837, huainulljiayin@csu.edu.cn, 19940911, 6571190801, 65711, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (1965192425, 怀肃, 男, 15399684125, huaisu@csu.edu.cn, 19940217, 1965192401, 19651, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (0352192202, 怀速贞, 男, 15675054471, huainullsunullzhen@csu.edu.cn, 19971201, 0352192201, 03521, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (0655190930, 怀陈东, 男, 17298878968, huainullchendong@csu.edu.cn, 19970213, 0655190901, 06551, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (1938190802, 怀栋杰, 男, 16746286261, huainulldongjie@csu.edu.cn, 19990428, 1938190801, 19381, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (8043194014, 怀志方, 男, 18903235725, huainullzhinullfang@csu.edu.cn, 19981117, 8043194001, 80431, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (5338191324, 怀水晶, 男, 12229611021, huainullshuijing@csu.edu.cn, 19960408, 5338191301, 53381, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (2822192703, 怀坚波, 男, 12332360592, huainulljianbo@csu.edu.cn, 19981121, 2822192701, 28221, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (3354190516, 怀木英, 男, 14741206709, huainullmuying@csu.edu.cn, 19960406, 3354190501, 33541, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (0771193227, 怀育, 女, 16562350720, huaiyu@csu.edu.cn, 19990622, 0771193201, 07711, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (3842192021, 怀永旭, 男, 13037589313, huainullyongxu@csu.edu.cn, 19950628, 3842192001, 38421, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (7511195025, 怀贇波, 女, 16418873065, huainullyunnullbo@csu.edu.cn, 19961001, 7511195001, 75111, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (1314191702, 怀君兰, 女, 15426589312, huainulljunlan@csu.edu.cn, 19970227, 1314191701, 13141, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (4361192431, 怀志新, 女, 17490702195, huainullzhinullxin@csu.edu.cn, 19980421, 4361192401, 43611, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (4372194308, 怀国砚, 男, 16099948891, huainullguoyan@csu.edu.cn, 19991014, 4372194301, 43721, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (8911193206, 怀小嫒, 女, 11140339862, huainullxiaoai@csu.edu.cn, 19980629, 8911193201, 89111, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (3590192817, 怀锦焕, 女, 18596726864, huainulljinhuan@csu.edu.cn, 19980825, 3590192801, 35901, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (9048191104, 怀远锋, 女, 12451333499, huainullyuanfeng@csu.edu.cn, 19940212, 9048191101, 90481, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (8943191023, 怀琅琅, 男, 14360390590, huainulllangnulllang@csu.edu.cn, 19950413, 8943191001, 89431, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (6232192722, 怀少媚, 男, 11609502762, huainullshaomei@csu.edu.cn, 19961223, 6232192701, 62321, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (2932194727, 怀宗楠, 女, 19937963735, huainullzongnullnan@csu.edu.cn, 19990923, 2932194701, 29321, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (3584192816, 怀鸥娥, 女, 13268913852, huainullounulle@csu.edu.cn, 19951115, 3584192801, 35841, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (3075190210, 怀佳懂, 男, 12128473451, huainulljiadong@csu.edu.cn, 19950930, 3075190201, 30751, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (6860193630, 怀越峰, 女, 17849710445, huainullyuenullfeng@csu.edu.cn, 19970115, 6860193601, 68601, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (7169193125, 怀凌飞, 女, 18001528673, huainulllingfei@csu.edu.cn, 19971118, 7169193101, 71691, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (3104193614, 怀志斌, 男, 18734763514, huainullzhinullbin@csu.edu.cn, 19940518, 3104193601, 31041, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (3441191826, 怀家文, 男, 18481448321, huainulljiawen@csu.edu.cn, 19990712, 3441191801, 34411, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (8370190608, 怀志文, 女, 16093734177, huainullzhinullwen@csu.edu.cn, 19960307, 8370190601, 83701, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (0972194213, 怀玉苹, 男, 14864201981, huainullyuping@csu.edu.cn, 19980726, 0972194201, 09721, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (6088192605, 怀波儿, 女, 14464603869, huainullboer@csu.edu.cn, 19960615, 6088192601, 60881, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (0303191432, 怀聪玲, 女, 12742486615, huainullcongnullling@csu.edu.cn, 19950728, 0303191401, 03031, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (3603192924, 怀永方, 女, 19578687136, huainullyongfang@csu.edu.cn, 19940225, 3603192901, 36031, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (0847192917, 怀世诚, 女, 13140331371, huainullshinullcheng@csu.edu.cn, 19990702, 0847192901, 08471, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (4328194718, 怀子燕, 男, 13702129039, huainullziyan@csu.edu.cn, 19950307, 4328194701, 43281, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (1546190710, 怀晓鲁, 男, 15370573599, huainullxiaolu@csu.edu.cn, 19990330, 1546190701, 15461, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (6713191003, 怀长春, 男, 16233220016, huainullchangnullchun@csu.edu.cn, 19970910, 6713191001, 67131, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (3831193811, 怀萍英, 女, 10874452586, huainullpingying@csu.edu.cn, 19960611, 3831193801, 38311, 100);
+insert into T_ATTEND_09504 (SNO, SNAME, SEX, TEL, "E-MAIL", BIRTHDAY, MNO, "MajorNo", SUM_EVALUATION)
+values (7674192510, 怀玉英, 女, 15472600121, huainullyuying@csu.edu.cn, 19990202, 7674192501, 76741, 100);
