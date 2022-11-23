@@ -21,39 +21,30 @@ public class GeneratorProxy implements ResourceLoader {
     private final BirthdayGenerator birthdayGenerator = new BirthdayGenerator();
     private final NodeGenerator nodeGenerator = new NodeGenerator();
 
-    public void generate() {
+    public void generateData() {
         snoGenerator.generate();
+        System.out.println("sno done");
         snameGenerator.generate();
+        System.out.println("sname done");
         sexGenerator.generate();
+        System.out.println("sex done");
         telGenerator.generate();
+        System.out.println("tel done");
         emailGenerator.generate();
+        System.out.println("email done");
         birthdayGenerator.generate();
+        System.out.println("birthday done");
     }
 
     public void generateNodes() {
         nodeGenerator.generate();
     }
 
-    public void build() {
-        StringBuilder sql = new StringBuilder();
-        context.getNodeList().forEach(node -> {
-            Template template = new Template(node);
-            sql.append(template).append("\n");
-        });
-        var resultFile = new File(RESUlT);
-        if (resultFile.exists())
-            resultFile.delete();
-        try {
-            FileUtils.write(new File(resultFile.toURI()), sql.toString(), StandardCharsets.UTF_8);
-        } catch (IOException e) {
-            System.out.println("写入结果失败");
-            throw new RuntimeException(e);
-        }
-    }
 
     public void flow() {
-        generate();
+        generateData();
+        System.out.println("data all done");
         generateNodes();
-        build();
+        System.out.println("node all done");
     }
 }

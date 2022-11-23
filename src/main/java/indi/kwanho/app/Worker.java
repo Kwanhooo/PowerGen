@@ -1,6 +1,6 @@
 package indi.kwanho.app;
 
-public class Application {
+public class Worker {
     private static final Context context = Context.getContext();
     private static final GeneratorProxy generatorProxy = new GeneratorProxy();
 
