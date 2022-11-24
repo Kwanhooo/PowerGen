@@ -24,7 +24,7 @@ import static indi.kwanho.config.TargetConfig.PAGE_SIZE;
 public class NodeGenerator implements Generator {
     private final Context context = Context.getContext();
     private final HanyuPinyinOutputFormat format;
-    private final String SUFFIX = "@csu.edu.cn";
+    private final static String SUFFIX = "@csu.edu.cn";
 
     public NodeGenerator() {
         format = new HanyuPinyinOutputFormat();
@@ -35,7 +35,7 @@ public class NodeGenerator implements Generator {
 
     @Override
     public void generate() {
-        // 列表化
+        // convert to list
         List<String> snoList = context.getSnoSet().stream().toList();
         List<String> snameList = context.getSnameSet().stream().toList();
         List<String> sexList = context.getSexList();

@@ -9,6 +9,7 @@ import net.sourceforge.pinyin4j.format.HanyuPinyinToneType;
 import net.sourceforge.pinyin4j.format.HanyuPinyinVCharType;
 import net.sourceforge.pinyin4j.format.exception.BadHanyuPinyinOutputFormatCombination;
 
+@Deprecated
 public class EmailGenerator implements Generator {
     Context context = Context.getContext();
     private final String SUFFIX = "@csu.edu.cn";
@@ -31,6 +32,7 @@ public class EmailGenerator implements Generator {
                 pinyin = fullName;
             }
             String email = pinyin + SUFFIX;
+//            context.getEmailList().add(email);
         });
     }
 }

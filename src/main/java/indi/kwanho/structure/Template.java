@@ -1,7 +1,10 @@
 package indi.kwanho.structure;
 
 import indi.kwanho.config.TargetConfig;
+import indi.kwanho.core.abs.TemplateType;
 
+
+@TemplateType
 public class Template {
     private final Node node;
 

@@ -3,13 +3,11 @@ package indi.kwanho.core;
 import indi.kwanho.app.Context;
 import indi.kwanho.config.TargetConfig;
 import indi.kwanho.core.abs.Generator;
-import org.junit.jupiter.api.Test;
 
 public class TelGenerator implements Generator {
-    private Context context = Context.getContext();
+    private final Context context = Context.getContext();
 
     @Override
-    @Test
     public void generate() {
         StringBuilder telBuilder = new StringBuilder("1");
         while (context.getTelSet().size() < TargetConfig.TARGET_SIZE) {

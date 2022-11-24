@@ -1,9 +1,11 @@
 package indi.kwanho.structure;
 
+import indi.kwanho.core.abs.DataStructure;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+@DataStructure
 @NoArgsConstructor
 @Setter
 @Getter
